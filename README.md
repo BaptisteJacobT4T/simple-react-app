@@ -9,6 +9,10 @@ Requirements:
 - npm >= 6.9.0
 - create-react-app >= 2.1.8
 
+## Useful command ##
+
+Run dev environement : `npm start`
+
 ## Cheat sheet ##
 
-install `npm install -g create-react-app`
+create a new app : `npm install -g create-react-app`
