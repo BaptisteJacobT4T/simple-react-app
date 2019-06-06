@@ -9,6 +9,8 @@ Requirements:
 - npm >= 6.9.0
 - create-react-app >= 2.1.8
 
+Install application : `npm install`
+
 ## Useful command ##
 
 Run dev environement : `npm start`
