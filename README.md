@@ -17,4 +17,6 @@ Run dev environement : `npm start`
 
 ## Cheat sheet ##
 
-create a new app : `npm install -g create-react-app`
+install create-react-app : `npm install -g create-react-app`
+
+create a new app : `create-react-app your-app`
